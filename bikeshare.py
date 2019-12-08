@@ -19,7 +19,7 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         city = input('Which city would you like to explore data from? Chicago, New York City or Washington?').lower()
-        if city in ('new york city', 'chicago', 'washington'):
+        if city in CITY_DATA:
             print('Great! You have selected {}!\n'.format(city.title()))
             break
         else:
@@ -54,7 +54,7 @@ def get_filters():
 
 def load_data(city, month, day):
     """
-    Loads data for the specified city and filters by month and day if applicable.
+    Loads data for the specified city and filters by month and day if user wants and is applicable.
 
     Args:
         (str) city - name of the city to analyze
