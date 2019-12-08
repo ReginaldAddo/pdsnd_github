@@ -7,6 +7,11 @@ Explore US Bikeshare Data
 ### Description
 This project uses Python to explore U.S Bikeshare data. It calculates statistics in an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
+###Software Requirements
+* Python 3.6
+* Python Libraries - Numpy, Pandas
+* Anaconda Navigator
+
 ### Files used
 1. **chicago.csv**
 2. **washington.csv**
