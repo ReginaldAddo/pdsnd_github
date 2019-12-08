@@ -22,3 +22,4 @@ This project uses Python to explore U.S Bikeshare data. It calculates statistics
 * [Udacity Writing READMEs article](https://www.udacity.com/course/writing-readmes--ud777)
 * [Github Guides - Markdown Article](https://guides.github.com/features/mastering-markdown/#intro)
 * [Programming for Data Secience Nanodegree Project 3 repo](https://github.com/udacity/pdsnd_github)
+* [Richard Kalehoff Version Control With Git Course](https://www.udacity.com/course/version-control-with-git--ud123)
