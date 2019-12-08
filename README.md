@@ -13,4 +13,7 @@ This project uses Python to explore U.S Bikeshare data. It calculates statistics
 3. **new_york_city.csv**
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [Udactiy](https://www.udacity.com/)
+* [Udacity Writing READMEs article](https://www.udacity.com/course/writing-readmes--ud777)
+* [Github Guides - Markdown Article](https://guides.github.com/features/mastering-markdown/#intro)
+* [Programming for Data Secience Nanodegree Project 3 repo](https://github.com/udacity/pdsnd_github)
